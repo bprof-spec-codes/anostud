@@ -1,0 +1,1 @@
+dotnet run --project anostud --migrate-database
